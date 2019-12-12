@@ -63,3 +63,16 @@ Compétences clés :
 | Sauvegarder au travers de git | Maitriser | |     |        | 
 | Écrire en markdown | Maitriser | | |     |
 
+
+### ------------------
+### Virtualisation Docker
+- Compétence clé : Créer, configurer et sécuriser des container via Dockers
+
+| SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
+| ------------ | ------ |-| ------ | ----------- |
+| Comprendre l’architecture d’une solution de containérisation | Maitriser | |  |         |
+| Construire une image Docker | Maitriser | |      |         |
+| Manipuler images et containers Docker | Maitriser | |      |         |
+| Mettre en réseau un container Docker de différentes façons | Amateur | |      |         |
+| Sécuriser un container | Newbi | |      |         |
+| Clusteriser des containers | Newbi | |      |         |
