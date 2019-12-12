@@ -32,6 +32,16 @@
 | Créer un dashboard avec des requêtes spécifiques | Maitriser | | | |
 
 ### ------------------
+### Virtualisation Containers
+| SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
+| ------------ | ------ |-| ------ | ----------- |
+| Création de containers LXD/LXC | Maitrisé | | Virtualisation | Sérieux |
+| Manipuler des containers | Maitrisé | | Containers LXD | Autonome |
+| Manipuler des process dans des containers | Maitrisé | | LXC | Respecter des consignes |
+| Configurer des containers | Maitrisé | | | |
+| Utilisation de bridge | Maitrisé | | | |
+
+### ------------------
 ### Qualité et ITIL
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
