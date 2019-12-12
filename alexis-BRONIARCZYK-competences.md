@@ -1,5 +1,6 @@
 ### Tableau de compétences de Alexis BRONIARCZYK Licence PRO ASUR
 
+## KVM
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Comprendre l’architecture d’un réseau de virtualisation | Maitrisé | | Réseaux | Connaissance |
@@ -9,7 +10,11 @@
 | Utiliser la libvirt au travers du shell virsh | Normal | | KVM | Autonomie |
 | Mettre en réseau une machine vrtuelle de différentes façons | Normal | | | |
 | Migrer une machine virtuelle d’un noeud KVM à un autre en utilisant un espace de stockage NFS | Newbi | | | | 
-||||||
+
+
+## Reporting
+| SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
+| ------------ | ------ |-| ------ | ----------- |
 | Installer un client SNMP | Maitriser | | Supervision | Entraide |
 | Interroger un serveur via SNMP | Maitriser | | Monitoring | Autonomie |
 | Interroger une machine via SNMP | Maitriser | | SNMP | Compréhension |
@@ -23,12 +28,15 @@
 | Récupération de données via Collectd | Expert | | | |
 | Récupération de données via telegraf | Maitriser | | | |
 | Créer un dashboard avec des requêtes spécifiques | Maitriser | | | |
-||||||
-| Rédiger un KPI |      | | Les bonnes pratiques ITIL | Autonomie | 
-| Décrire / présenter un logigramme | | | L'amélioration continue | Respecter des délais | 
-| Donner l'ébauche d'un catalogue de service | | | ISO 9001 | Sérieux | 
-| Décrire/présenter un logigramme | | | Connaître les principales normes ISO | Prise d'initiatives | 
-| Utiliser github en mode participatif | | |       |     | 
-| Sauvegarder au travers de git | | |     |        | 
-| Écrire en markdown |    | | |     |
-| Comprendre la roue de Deming | | |    |     |
+
+## Qualité et ITIL
+| SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
+| ------------ | ------ |-| ------ | ----------- |
+| Rédiger un KPI | Amateur | | Les bonnes pratiques ITIL | Autonomie | 
+| Décrire / présenter un logigramme | Expert | | L'amélioration continue | Respecter des délais | 
+| Donner l'ébauche d'un catalogue de service | Expert | | ISO 9001 | Sérieux | 
+| Comprendre la roue de Deming | Expert | | Connaître les principales normes ISO | Prise d'initiatives | 
+| Utiliser github en mode participatif | Amateur | |       |     | 
+| Sauvegarder au travers de git | Maitriser | |     |        | 
+| Écrire en markdown | Maitriser | | |     |
+
