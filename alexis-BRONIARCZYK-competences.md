@@ -37,7 +37,7 @@
 
 ### ------------------
 ### Virtualisation Containers
-- Compétences clés : 
+Compétences clés : 
 * Créer et configurer des containers LXC / LXD afin de comprendre le fonctionnement de ces derniers et de les manipuler
 * Créer et configurer des containers docker afin de comprendre le fonctionnement de ces derniers et de les manipuler
 
