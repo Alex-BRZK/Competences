@@ -2,7 +2,7 @@
 Alexis BRONIARCZYK Licence PRO ASUR
 
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
-| ------------ | ------ | | ------ | ----------- |
+| ------------ | ------ |-| ------ | ----------- |
 | Rédiger un KPI |      | | Les bonnes pratiques ITIL | Autonomie | 
 | Décrire / présenter un logigramme | | | L'amélioration continue | Respecter des délais | 
 | Donner l'ébauche d'un catalogue de service | | | ISO 9001 | Sérieux | 
