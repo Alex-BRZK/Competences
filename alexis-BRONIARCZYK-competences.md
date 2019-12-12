@@ -3,6 +3,7 @@
 
 ### ------------------
 ### Virtualisation KVM
+- Compétence clé : Créer et configurer des machines virtuelles à l’aide de VMWare et KVM et ses différentes types d’installation
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Comprendre l’architecture d’un réseau de virtualisation | Maitrisé | | Réseaux | Connaissance |
@@ -15,6 +16,7 @@
 
 ### ------------------
 ### Reporting
+- Compétence clé : Comprendre et utiliser un protocole de supervision ainsi qu'un système de métrologie
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Installer un client SNMP | Maitriser | | Supervision | Entraide |
@@ -33,6 +35,9 @@
 
 ### ------------------
 ### Virtualisation Containers
+- Compétences clés : 
+-- Créer et configurer des containers LXC / LXD afin de comprendre le fonctionnement de ces derniers et de les manipuler
+-- Créer et configurer des containers docker afin de comprendre le fonctionnement de ces derniers et de les manipuler
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Création de containers LXD/LXC | Maitrisé | | Virtualisation | Sérieux |
@@ -43,6 +48,7 @@
 
 ### ------------------
 ### Qualité et ITIL
+- Compétence clé : Comprendre et utiliser les bonnes pratiques ITIL
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Rédiger un KPI | Amateur | | Les bonnes pratiques ITIL | Autonomie | 
