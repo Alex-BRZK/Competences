@@ -1,4 +1,4 @@
-# Tableau de compétences 
+# Tableaux de compétences 
 ## Alexis BRONIARCZYK Licence PRO ASUR
 
 ### ------------------
