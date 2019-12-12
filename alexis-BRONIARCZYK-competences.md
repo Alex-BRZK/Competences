@@ -4,6 +4,7 @@
 ### ------------------
 ### Virtualisation KVM
 - Compétence clé : Créer et configurer des machines virtuelles à l’aide de VMWare et KVM et ses différentes types d’installation
+
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Comprendre l’architecture d’un réseau de virtualisation | Maitrisé | | Réseaux | Connaissance |
