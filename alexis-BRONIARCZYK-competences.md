@@ -66,7 +66,7 @@ Compétences clés :
 
 ### ------------------
 ### Virtualisation Docker
-- Compétence clé : Créer, configurer et sécuriser des container via Dockers
+- Compétence clé : Créer, configurer et sécuriser des container via Docker
 
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
