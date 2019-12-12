@@ -1,6 +1,6 @@
-### Tableau de compétences de Alexis BRONIARCZYK Licence PRO ASUR
+# Tableau de compétences de Alexis BRONIARCZYK Licence PRO ASUR
 
-# Virtualisation KVM
+### Virtualisation KVM
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Comprendre l’architecture d’un réseau de virtualisation | Maitrisé | | Réseaux | Connaissance |
@@ -12,7 +12,7 @@
 | Migrer une machine virtuelle d’un noeud KVM à un autre en utilisant un espace de stockage NFS | Newbi | | | | 
 
 
-# Reporting
+### Reporting
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Installer un client SNMP | Maitriser | | Supervision | Entraide |
@@ -29,7 +29,7 @@
 | Récupération de données via telegraf | Maitriser | | | |
 | Créer un dashboard avec des requêtes spécifiques | Maitriser | | | |
 
-# Qualité et ITIL
+### Qualité et ITIL
 | SAVOIR FAIRE | Niveau | | SAVOIR | SAVOIR ETRE |
 | ------------ | ------ |-| ------ | ----------- |
 | Rédiger un KPI | Amateur | | Les bonnes pratiques ITIL | Autonomie | 
