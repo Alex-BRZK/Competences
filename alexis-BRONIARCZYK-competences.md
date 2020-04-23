@@ -74,5 +74,5 @@ Compétences clés :
 | Construire une image Docker | Maitriser | |      |         |
 | Manipuler images et containers Docker | Maitriser | |      |         |
 | Mettre en réseau un container Docker de différentes façons | Amateur | |      |         |
-| Sécuriser un container | Newbi | |      |         |
+| Sécuriser un container | Maitriser | |      |         |
 | Clusteriser des containers | Newbi | |      |         |
